@@ -5,7 +5,8 @@
 
 ## 🖥️ SaaS Admin Dashboard Preview
 
-![Photobox SaaS Admin Dashboard Preview](product_example.jpg)
+![Photobox SaaS Admin Dashboard Preview]
+(product_example.jpg)
 
 *A fully responsive SaaS management dashboard built with TypeScript and Tailwind CSS, designed for Admin and Superadmin to monitor revenue, active sessions, and hardware status in real-time.*
 
